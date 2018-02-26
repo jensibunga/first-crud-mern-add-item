@@ -1,8 +1,6 @@
 # first-crud-mern-add-item
 
-## Description
-
-* Followed full MERN tutorial using CRUD operation
+To practice my MERN skills more during my [Restart Network](https://restart.network/) guide period. I followed a tutorial using MERN that allow users to create item, delete, and edit. 
 
 ## Technology Use
 
@@ -10,6 +8,11 @@
 * React
 * Node.js
 * Express
+
+## Challenges Faced
+
+* Setting up a connection in Mlab for Mongo DB
+* Deploying backend and frontend separate and connecting them
 
 ## Link 
 
